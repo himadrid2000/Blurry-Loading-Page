@@ -1,2 +1,2 @@
 # Blurry-Loading-Page
-A small function that can used toblur something from 0 to 100
+A small function that can be used to blur something(imG) from 0 to 100
